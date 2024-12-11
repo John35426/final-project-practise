@@ -1,0 +1,17 @@
+body{
+    background-image: url(background.png);
+    background-size: cover;
+    
+}
+#text{
+background-color: cornflowerblue;
+width: 90%;
+    margin: auto;
+}
+
+p{
+    color: brown;
+}
+nav{
+    padding: 30px;
+}
